@@ -17,7 +17,7 @@ A multiplatform emulation frontend
 | --- | --- |
 | Linux, Windows and Android | Azahar, Cemu, Dolphin, DuckStation, Eden, Flycast, melonDS, PPSSPP, RetroArch, Vita3K |
 | Additional desktop options | KytyPS5, Lichii, MAME, PCSX2, RPCS3, shadPS4, xemu, Xenia Canary, Xenia Edge, or a custom installed emulator |
-| Additional Android options | ARMSX2, ARMSX3, Banana Native, Eden Duo, Eden Duo Dev, HakuX, MAME4droid, melonDS Dev, MelonDualDS / WatermelonDS, WatermelonDS Emufii, MetroidArch, PPSSPP Gold, PPSSPP Duo, XenDroid |
+| Additional Android options | ARMSX2, ARMSX3, Hokkaido, Eden Duo, Eden Duo Dev, HakuX, MAME4droid, melonDS Dev, MelonDualDS / WatermelonDS, WatermelonDS Emufii, MetroidArch, PPSSPP Gold, PPSSPP Duo, XenDroid |
 | PC game launchers on Android | GameHub Lite, Winlator Cmod |
 
 On Android, standalone Flycast, HakuX and MAME4droid manage their own saves. Use RetroArch’s Flycast core for Dreamcast save sync. 
